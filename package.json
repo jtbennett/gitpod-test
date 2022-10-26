@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jtbennett/gitpod-test/issues"
   },
-  "homepage": "https://github.com/jtbennett/gitpod-test#readme"
+  "homepage": "https://github.com/jtbennett/gitpod-test#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
